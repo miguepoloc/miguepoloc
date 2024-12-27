@@ -9,7 +9,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 - ⚡ Fun fact: I enjoy hiking and playing the guitar.
 
 ## Skills
-- **Languages:** Python, Java, Javascript
+- **Languages:** Python, GO, Javascript
 - **Frameworks:** Django, FastAPI, React, Node.js
 - **Tools:** Git, Docker, Jenkins, AWS
 
@@ -18,7 +18,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 - **[Another Project](https://github.com/miguepoloc/another-project):** A brief description of what this project is about.
 
 ## GitHub Stats
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguepoloc&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/miguepoloc?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/miguepoloc)
